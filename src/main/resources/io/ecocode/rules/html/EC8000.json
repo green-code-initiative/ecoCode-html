@@ -1,0 +1,16 @@
+{
+  "title": "Avoid usage of autoplay attribute in audio and video elements",
+  "type": "CODE_SMELL",
+  "status": "ready",
+  "remediation": {
+    "func": "Constant\/Issue",
+    "constantCost": "5min"
+  },
+  "tags": [
+    "ecocode",
+    "eco-design",
+    "video",
+    "audio"
+  ],
+  "defaultSeverity": "Major"
+}
